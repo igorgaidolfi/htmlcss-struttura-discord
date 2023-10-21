@@ -96,4 +96,10 @@ li{
 .pink-col{
     background-color: #ffc0cb;
 }
-
+.bg-grey{
+    background-color: lightgray;
+    height: 630px;
+}
+.padding-65{
+    padding: 65px 0;
+}
