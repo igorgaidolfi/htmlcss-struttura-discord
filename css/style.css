@@ -20,8 +20,7 @@
 .col-60{
     width: 60%;   
 }
-.height-45{
-    height: 45px;
+.border-black{
     border: 2px dashed black;
 }
 .col-20{
@@ -34,8 +33,10 @@ header{
     background-color: #add8e6;
     height: 600px;
 }
-.text-header{
+.fsize-header{
     font-size: 24px;
+}
+.styled-font{
     line-height: 1.7;
     padding: 0px 10px;
 }
@@ -63,7 +64,6 @@ li{
 }
 .col-100{
     width: 100%;
-    border: 2px dashed black;
 }
 .bg-darkblue{
     background-color: darkblue;
@@ -80,7 +80,6 @@ li{
 }
 .blue-col{
     background-color: #1e90ff;
-    border: 2px dashed black;
     height: 500px;
 }
 .col-40{
@@ -88,7 +87,6 @@ li{
 }
 .pink-col{
     background-color: #ffc0cb;
-    border: 2px dashed black;
     height: 500px;
 }
 .bg-grey{
@@ -119,7 +117,6 @@ li{
 .col-30{
     width: 30%;
     background-color: #f08080;
-    border: 2px dashed black;
     height: 590px;
 }
 .col-17{
@@ -129,12 +126,26 @@ li{
 }
 .col-70{
     width: 70%;
-    border: 2px dashed black;
     display: flex;
 }
 .padding-10{
     padding: 10px 0;
 }
 .bottom-foot-height{
+    padding: 20px 0;
     height: 100px;
+}
+.justify-space-bet{
+    justify-content: space-between;
+}
+.bg-aqua{
+    background-color: #7fffd4;
+    height: 80px;
+    padding: 22px 0px;
+}
+.col-foot{
+    background-color: #ffb6c1;
+}
+.fsize-foot{
+    font-size: 18px;
 }
